@@ -1,4 +1,4 @@
-# Bits_project
+# Impact Metrics Project
 # 🌍 Earthquake Impact & Tsunami Analysis
 
 An end-to-end data analysis and machine learning project analyzing **earthquake magnitude, depth, geographic location, tsunami occurrence, alert severity, and earthquake impact** using Python and Scikit-learn.
